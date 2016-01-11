@@ -11,6 +11,7 @@ int skipMe(){
 
 int main()
 {
-	callMe();
+//	callMe();
+	skipMe();
   std::cout << "Hello World!";
 }
