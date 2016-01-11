@@ -1,6 +1,6 @@
 #include "skipFile.h"
 
-boolean skipThisEntireThing(){
+int skipThisEntireThing(){
 
 return true;
 }

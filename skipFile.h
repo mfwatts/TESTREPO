@@ -1,1 +1,1 @@
-boolean skipThisEntireThing();
+int skipThisEntireThing();
