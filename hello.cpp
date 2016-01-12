@@ -7,11 +7,15 @@
 int skipMe(){
 	int x = 8;
 	++x;
+	return x;
 }
 
 int main()
 {
-//	callMe();
+	callMe();
+	if(x > 9){
 	skipMe();
-  std::cout << "Hello World!";
+	}else{
+	std::cout << "Hello World!";
+	}
 }
