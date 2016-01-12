@@ -12,7 +12,7 @@ int skipMe(){
 
 int main()
 {
-	callMe();
+	int x = callMe();
 	if(x > 9){
 	skipMe();
 	}else{
